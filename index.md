@@ -6,3 +6,11 @@
 ###### This is an `<h6>` header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```js
+
+function testFunction(){
+  return 'this is a javascript function'
+}
+
+```
