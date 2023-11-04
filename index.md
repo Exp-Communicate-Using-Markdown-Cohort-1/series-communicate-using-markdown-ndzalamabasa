@@ -14,3 +14,7 @@ function testFunction(){
 }
 
 ```
+
+- [x] Take a bath
+- [x] Eat breakfast
+- [ ] Bake scones
